@@ -1,5 +1,9 @@
 # Microsoft Graph Connector
 
+> [!IMPORTANT]
+> This project has been retired and archived  
+> If there is a need of continued use / development of this project for your own needs please feel free to fork the project - which will remain here in archived form.
+
 ## Documentation
 Complete documentation of possible calls and methods at https://docs.microsoft.com/en-us/graph/api/resources/user?view=graph-rest-1.0
 
